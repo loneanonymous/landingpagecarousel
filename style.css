@@ -8,13 +8,13 @@ img {
     
 }
 
-.logo {
+.navbar-brand {
     font-size: 24px;
     color: white;
     font-weight: 600;
 }
 
-.nav-item a {
+.navbar-expand-lg .navbar-nav .nav-link{
     color: white;
 }
 
@@ -33,6 +33,7 @@ img {
     border-radius: 5px;
     color: white;
     background-color: blue;
+    font-weight: 600;
 
 }
 
@@ -40,7 +41,7 @@ img {
     background-color: rgb(148, 148, 249);
 }
 
-.navbar {
+.navbar-expand-lg {
     background-color: blue;
 }
 
@@ -55,4 +56,8 @@ h1 {
 .our {
     text-decoration: none;
     color: white;
+}
+
+.navbar-nav {
+    text-align: center;
 }
