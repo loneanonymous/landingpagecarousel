@@ -61,3 +61,23 @@ h1 {
 .navbar-nav {
     text-align: center;
 }
+
+@media (max-width: 768px) {
+
+    .navbar-expand-lg .navbar-nav .nav-link{
+        color: white;
+    }
+
+    .navbar-brand {
+        font-size: 24px;
+        color: white;
+        font-weight: 600;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+
+
+}
