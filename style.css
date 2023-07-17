@@ -78,6 +78,10 @@ h1 {
         text-align: center;
     }
 
+    .navbar-toggler {
+        background-color: white;
+    }
+
 
 
 }
